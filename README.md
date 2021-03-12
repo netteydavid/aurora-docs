@@ -6,5 +6,7 @@ Satoshi Nakamoto's original vision for Bitcoin was a permissionless, trustless m
 Bitcoin is an open source, community project. We believe that any scaling solution should be the same. As such, Project Boreas will be completely open source. Anyone may contributue to or copy the project.
 
 Original Whitepaper: https://github.com/netteydavid/ProjectBoreas/blob/main/Directed_Acyclic_Graphs_as_a_Second_Layer_Scaling_Solution_for_Bitcoin.pdf
+
 Living whitepaper: https://github.com/netteydavid/ProjectBoreas/wiki/Living-Whitepaper
+
 Bitcoin Talk thread: https://bitcointalk.org/index.php?topic=5323057.0
