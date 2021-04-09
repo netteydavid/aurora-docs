@@ -7,4 +7,6 @@ Bitcoin is an open source, community project. We believe that any scaling soluti
 
 Original Whitepaper: https://github.com/netteydavid/ProjectBoreas/blob/main/Directed_Acyclic_Graphs_as_a_Second_Layer_Scaling_Solution_for_Bitcoin.pdf
 
+Living Whitepaper: https://www.notion.so/davidnettey/Scaling-Bitcoin-Through-Off-chain-Verification-and-On-chain-Settlement-d1b59017badd4707b6fadf7db620d7f2
+
 Bitcoin Talk thread: https://bitcointalk.org/index.php?topic=5323057.0
